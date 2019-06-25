@@ -13,6 +13,7 @@ defmodule Cards do
 
   """
   def hello do
-    :world
+    # :world
+    IO.inspect("Hello World")
   end
 end
